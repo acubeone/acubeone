@@ -1,17 +1,17 @@
 # Hello humans! I'm aCube!
 
-Yo! I'm aCube, a Brazilian programmer and writer who likes to know what happens under the hood. I started in 2020 with game development, writing Lua on the TIC-80 fantasy computer. That curiosity slowly pulled me down the stack, from games to low-level systems and hardware.
-
-Today I build custom CPUs, instruction sets and cycle-accurate emulators, mostly in C. I enjoy the place where hardware and software meet. I love to teach what I know, so feel free to ask me anything.
+Yo! I'm aCube, just another Brazilian guy who loves games and retro hardware. I started in 2020 making games in Lua on the TIC-80 fantasy computer, using nothing but an Android phone. Curiosity kept pulling me down the stack. First came emulators, then hardware and electronics, and now I'm here building custom CPUs, emulators, tools and games, mostly in C. My brain loves a deep dive, and retro aesthetics are a favorite one. I love to teach what I know, so ask me anything!!
 
 ## About me
 
 - **Name:** Anthony Levi Tavares dos Santos
-- **Role:** Computer Science student, focused on computer architecture, embedded systems and low-level development
-- **Education:** Federal University of Sergipe (UFS), expected graduation in 2030
+- **Role:** Computer Science student at the Federal University of Sergipe (UFS), expected graduation in 2030
+- **Focus:** Computer architecture, game development, embedded systems and low-level development
 - **Location:** Brazil
 - **Languages:** Portuguese (native), English (fluent)
-
+- **Hobbies:** Manga and anime
+- **Favorites:** *Blame!* and *Made in Abyss*
+  
 ## Skills
 
 <table>
